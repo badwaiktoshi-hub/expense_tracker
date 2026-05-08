@@ -1,9 +1,9 @@
 // Expense Tracker v2.0 — Service Worker (offline-first PWA)
-const CACHE_NAME = "expense-tracker-v2-1";
+const CACHE_NAME = "expense-tracker-v2-3";
 const APP_SHELL = [
   "./",
   "./index.html",
-  "./app.js",
+  "./app.compiled.js",
   "./manifest.json",
   "./icon-192.png",
   "./icon-512.png",
